@@ -40,4 +40,10 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/milan-sunny-464152229)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/u2209040)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:milan2002sunny@gmail.com)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify)](https://open.spotify.com/user/31e5ao5w4irzojte25dwafcprxzy?si=4701cb6b1b484e4d)
+
+
+
 
