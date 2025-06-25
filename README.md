@@ -13,9 +13,17 @@
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![n8n](https://img.shields.io/badge/-n8n-orange?style=flat)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Firecrawl](https://img.shields.io/badge/-Firecrawl-E4572E?style=flat&logo=firefox-browser)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio)
+
 
 ---
 
