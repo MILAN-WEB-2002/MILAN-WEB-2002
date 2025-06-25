@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🌱 I’m learning **n8n**, **Ethical Hacking**, **Python Automation**
+- 🌱 I’m learning **n8n**, **Cyber Security**, **Python Automation**
 - 🎬 I love watching movies and building cool UIs
 - 📫 Reach me at: **milan2002sunny@gmail.com**
 
