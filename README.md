@@ -20,8 +20,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milansunny&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milansunny&layout=compact&theme=tokyonight)
+![Milan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MILAN-WEB-2002&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MILAN-WEB-2002&layout=compact&theme=tokyonight)
 
 ---
 
@@ -29,5 +29,7 @@
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/milan-sunny-464152229)
+
