@@ -5,7 +5,6 @@
 
 
 - 🌱 I’m learning **n8n**, **Cyber Security**, **Python Automation**
-- 🎬 I love watching movies and building cool UIs
 - 📫 Reach me at: **milan2002sunny@gmail.com**
 
 ---
