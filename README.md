@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m learning n8n, Cyber Security, Python, Artificial Intelligence
+ 🌱I’m learning n8n, Cyber Security, Python, Artificial Intelligence
 
 
 ## 🌐 Socials:
