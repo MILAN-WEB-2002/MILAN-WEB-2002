@@ -1,7 +1,7 @@
 # 💫 About Me: [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Milan+Paul+Sunny)](https://git.io/typing-svg)
 
 
- 🌱I’m learning n8n, Cyber Security, Python, Artificial Intelligence
+ 🌱I’m learning n8n, Cyber Security,  Artificial Intelligence, DevOps, Agentic AI
 
 
 ## 🌐 Socials:
